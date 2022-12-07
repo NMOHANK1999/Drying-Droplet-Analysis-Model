@@ -5,3 +5,7 @@ The main "physical feature" in question is the polarized intensity of the drople
 You can see that there are multiple codes in this repository. Each code does the same task but the difference lies in the methodology of
 deriving this information, some codes analyse droplets one at a time while other codes analyse all the droplets in the image simultaneously.
 Libraries Used: Cv2, glob, numpy, matplotlib, skimage, pandas, scipy.signal, random
+Inputs in the form of images as below:
+
+Results are in the form of Excel sheets and graphs an example is displayed below.
+![graph results](https://user-images.githubusercontent.com/109509567/206271832-c699864d-df06-400a-8213-9df96b82f8fa.PNG)
